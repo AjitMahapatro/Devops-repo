@@ -1,0 +1,3 @@
+Name : Ajit Mahapatro
+course : Bsc Data Science
+learning : Github is used for storing our projects
